@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mallesh</h1>
-<h3 align="center">IPssionate Front End Web and Android Developer from Bangalore.</h3>
+<h3 align="center">Passionate Front End Web and Android Developer from Bangalore.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 Final Year Student at **[Presidency University](https://presidencyuniversity.in/)**
 
-- 🌱 Currently Enrolled for **BTech. in CSE** program
+- 🌱 Currently Enrolled for **B.Tech in CSE** program
 
 - 🌱 Working on **Machine Learning** and **Android Development**
 
