@@ -1,7 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg" height="175px"/></a>
+ 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mallesh</h1>
-<h3 align="center">Passionate Front End Web and Android Developer from Bangalore.</h3>
+<h1 align="center">Hellow <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mallesh</h1>
+<h3 align="center">Passionate Front End Web and Android Developer from Bangalore. <br> And yeah, ML Engineer too...</h3>
 
 
 ## 🙋‍♂️ About Me
