@@ -1,16 +1,16 @@
  
 
 <h1 align="center">Hellow <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mallesh</h1>
-<h3 align="center">Passionate Front End Web and Android Developer from Bangalore. <br> And yeah, ML Engineer too...</h3>
+<h3 align="center">Passionate Web and Android Developer from Bangalore. <br> And yeah, ML Engineer too...</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Final Year Student at **[Presidency University](https://presidencyuniversity.in/)**
+- 🔭 CSE Grad from **[Presidency University](https://presidencyuniversity.in/)**
 
 - 🌱 Currently Enrolled for **B.Tech in CSE** program
 
-- 🌱 Working on **Machine Learning** and **Android Development**
+- 🌱 Working on **Machine Learning** and **Genertaive AI (More Specifically LLMs)**
 
 - 👯 Looking to collaborate on **Web Development and Android Development**
 
