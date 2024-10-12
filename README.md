@@ -8,8 +8,6 @@
 
 - 🔭 CSE Grad from **[Presidency University](https://presidencyuniversity.in/)**
 
-- 🌱 Currently Enrolled for **B.Tech in CSE** program
-
 - 🌱 Working on **Machine Learning** and **Genertaive AI (More Specifically LLMs)**
 
 - 👯 Looking to collaborate on **Web Development and Android Development**
@@ -19,8 +17,6 @@
 - 📫 You can reach me here **cnmallesh500@gmail.com**
 
 - ⚡ Fun fact **I code only 2 times: When I get bored and when I don't get bored**
-
-- 🔎 And Yes I **Love Debugging**
 
 ## 🚀 Languages and Tools:
 
